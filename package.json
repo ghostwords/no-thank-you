@@ -1,0 +1,10 @@
+{
+  "name": "no-thank-you-dev-tools",
+  "version": "0.0.1",
+  "description": "Developer tools for No Thank You",
+  "devDependencies": {
+    "eslint": "latest",
+    "web-ext": "latest"
+  },
+  "private": true
+}
